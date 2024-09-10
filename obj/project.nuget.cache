@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bu5RtVgx00Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisa\\source\\repos\\Shape\\Shape\\Shape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
